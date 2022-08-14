@@ -1,5 +1,5 @@
 # snhutravel
-Chanda Tech and SNHU travel agency
+Chada Tech and SNHU travel agency
 Through focus groups meetings, a product owner can gain feedback from stakeholders and users to define, refine, and prioritize the product backlogs. They can do this by defining what the user wants a new system to achieve. These requirements are then used to create user stories. Creating user stories ultimately helps guide what the developers and show case what the overall product vision is.  We can even implement JAD, a meeting with developers, stakeholders, and end users to help define requirements.
 More over, I hope to achieve the scrum agile as it provides an adequate framework for successful projects. We must keep in mind that agile is best used for projects that have unclear requirements or the requirements could change, and it’s also suited for larger projects. I believe that that the scrum agile framework is a great when implementing into SDLC. I hope to incorporate this in future development. It uses scrum roles where each roles are cross functional and all collaborate together to be successful.
 
